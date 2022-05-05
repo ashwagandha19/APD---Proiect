@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\FACULTATE\ANUL 3\SEM 2\APD\PROIECT\PARALLEL_DFS\.metadata\.plugins\org.eclipse.jdt.core
+75931715.index
+1838168659.index
+1865797976.index
